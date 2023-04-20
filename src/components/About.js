@@ -4,7 +4,7 @@ import './App.css';
 const About = () => {
   return (
     <div className='about-space'>
-        <img src="D:\vs code files\food app\food-app\src\components\About.png" className="about-image" />
+        <img src="D:\vs code files\food app\food-app\src\components\About.png"alt='menu'  className="about-image" />
       <div className="text-container">
         <h2 className='about-tst'>About Us</h2>
         <p>

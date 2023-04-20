@@ -15,9 +15,9 @@ function Header() {
 
   return (
     <div className="header">
-      <img src="/path/to/logo.png"className="logo" />
-      <img src="D:\vs code files\food app\food-app\src\components\Rectangle 400.png" className="left-image" />
-      <img src='D:\vs code files\food app\food-app\src\components\Vector 1.png'className="vector" />
+      <img src="/path/to/logo.png"alt="logo" className="logo" />
+      <img src="D:\vs code files\food app\food-app\src\components\Rectangle 400.png"alt="pizza" className="left-image" />
+      <img src='D:\vs code files\food app\food-app\src\components\Vector 1.png'alt="vector" className="vector" />
       <div className='para'>
         <h1>Discover the <spam className="best">Best</spam> Food and Drinks</h1>
       </div>

@@ -8,19 +8,19 @@ function CardScrollView() {
           <div className="scroll-view-content">
         <div className="scroll-view-page">
           <div className="card">
-            <img src='D:\vs code files\food app\food-app\src\components\tamto.png' className='images'/>
+            <img src='D:\vs code files\food app\food-app\src\components\tamto.png'alt='tomato' className='images'/>
             <h1>Grilled Tomatoes at Home</h1>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard... </p>
             <button className="button">Read More</button>
           </div>
           <div className="card">
-            <img src='D:\vs code files\food app\food-app\src\components\meal1.png' className='images2'/>
+            <img src='D:\vs code files\food app\food-app\src\components\meal1.png' alt='tomato'  className='images2'/>
             <h1>Snacks for Travel</h1>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard... </p>
             <button className="button">Read More</button>
           </div>
           <div className="card">
-          <img src='D:\vs code files\food app\food-app\src\components\meal2.png' className='images3'/>
+          <img src='D:\vs code files\food app\food-app\src\components\meal2.png'alt='tomato'  className='images3'/>
             <h1>Post-workout Recipes</h1>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard... </p>
             <button className="button">Read More</button>
@@ -29,19 +29,19 @@ function CardScrollView() {
 
         <div className="scroll-view-page2">
           <div className="card">
-          <img src='D:\vs code files\food app\food-app\src\components\meal2.png' className='images'/>
+          <img src='D:\vs code files\food app\food-app\src\components\meal2.png'alt='tomato'  className='images'/>
             <h1>How To Grill Corn</h1>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard... </p>
             <button className="button">Read More</button>
           </div>
           <div className="card">
-          <img src='D:\vs code files\food app\food-app\src\components\meal2.png' className='images2'/>
+          <img src='D:\vs code files\food app\food-app\src\components\meal2.png'alt='tomato'  className='images2'/>
             <h1>Crunchwrap Supreme</h1>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard... </p>
             <button className="button">Read More</button>
           </div>
           <div className="card">
-          <img src='D:\vs code files\food app\food-app\src\components\meal2.png' className='images3'/>
+          <img src='D:\vs code files\food app\food-app\src\components\meal2.png'alt='tomato'  className='images3'/>
             <h1>Broccoli Cheese Soup</h1>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard... </p>
             <button className="button">Read More</button>

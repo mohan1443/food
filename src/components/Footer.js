@@ -4,7 +4,7 @@ import "./App.css";
 function Footer() {
   return (
     <footer>
-      <img src="/path/to/logo.pnglogo.png"className="ftrlogo"/>
+      <img src="/path/to/logo.pnglogo.png"alt='.'  className="ftrlogo"/>
          <div className="right">
         <div className="contact">
           <h1>Contact Us</h1>
